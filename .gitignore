@@ -36,3 +36,8 @@ env/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Additional polish rules
+# MATLAB standard gitignore
+*.asv
+*.mat
